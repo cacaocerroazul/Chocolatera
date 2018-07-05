@@ -1,0 +1,30 @@
+h1{
+	font-family: 'Pacifico', cursive;
+	color: #25D1FF;
+}
+h3{
+	font-family: 'Gaegu', cursive;
+	color: #1BFF00; 
+}
+.quitar-float{
+	float: none;
+}
+img{
+	max-width: 100%;
+}
+.links{
+	background-color: ;
+	width: auto;
+}
+.link{
+	color: white;
+	padding: 5px;
+	margin-left: 15px;
+	font-family: Arial;
+}
+.products img{
+	width: 140px;
+}
+.img{
+	width: 150px;
+}
